@@ -5,6 +5,8 @@
   <br>
   BURGER BUILDER
   <br>
+  https://lombocska.github.io/burger-builder/
+  <br>
 </h1>
 
 
@@ -17,9 +19,16 @@ It's responsive, mobile-first rendering.
 
 ## Usage
 
+It has deployed on GitHub under https://lombocska.github.io/burger-builder/ .
 Locally, you should only run the command: `npm run` in the root directory of the project.
 
 
+## High-level design
+
+![mockup](./src/assets/readme/mockup.jpg)
+
+
+![component](./src/assets/readme/component.jpg)
 
 ### Notes
 

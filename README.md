@@ -1,10 +1,12 @@
-# B U R G E R    B U I L D E R
 
-<p align="center">
+<h1 align="center">
+  <br>
+  <img src="https://image.flaticon.com/icons/svg/392/392815.svg" alt="wolf" width="200">
+  <br>
+  BURGER BUILDER
+  <br>
+</h1>
 
-  ![logo](./src/assets/images/burger-logo.png)
-</p>
----
 
 This React project has created aiming to lay the foundation of my React knowledge.
 
